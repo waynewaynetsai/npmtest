@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.3.1...v1.4.0) (2020-07-29)
+
+
+### Features
+
+* use dist folder instead of lib ([d8ff323](https://github.com/ShangWeiTsai/npmtest/commit/d8ff3237e604c25742bbe6b8ea1edc566816ce0d))
+
 ## [1.3.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.3.0...v1.3.1) (2020-07-29)
 
 
