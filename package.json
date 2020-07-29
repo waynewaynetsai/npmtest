@@ -10,6 +10,7 @@
   "scripts": {
     "lint": "eslint . --ext .ts",
     "build:commonjs": "tsc --declaration -p tsconfig.json",
+    "prepublish": "npm run build:commonjs",
     "release": "semantic-release-cli",
     "test": "echo \"testing!\"",
     "semantic-release": "semantic-release"
