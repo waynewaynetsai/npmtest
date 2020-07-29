@@ -5,12 +5,13 @@
   },
   "version": "1.3.1",
   "description": "npm test",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "lint": "eslint . --ext .ts",
     "build:commonjs": "tsc -p tsconfig.json",
     "prepublish": "tsc --declaration -p tsconfig.json",
+    "prepare": "npm run ",
     "release": "semantic-release-cli",
     "test": "echo \"testing!\"",
     "semantic-release": "semantic-release"
