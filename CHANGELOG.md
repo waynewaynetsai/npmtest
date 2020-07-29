@@ -1,3 +1,16 @@
+# [1.5.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.4.1...v1.5.0) (2020-07-29)
+
+
+### Bug Fixes
+
+* exclude **/*.d.ts to avoid building error ([b5480c0](https://github.com/ShangWeiTsai/npmtest/commit/b5480c0ba24ebfd8ec95294bcb336b6a8ea6168f))
+* fix yaml error ([82d56df](https://github.com/ShangWeiTsai/npmtest/commit/82d56dfb16b865586fae49486fd3f6707daf4eb1))
+
+
+### Features
+
+* support es6 module ([354f7ea](https://github.com/ShangWeiTsai/npmtest/commit/354f7eac142421cffa932193a96d5d7179d65750))
+
 ## [1.4.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.4.0...v1.4.1) (2020-07-29)
 
 
