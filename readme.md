@@ -4,3 +4,7 @@
 [![version](https://img.shields.io/npm/v/@tgenx/npmtest?style=plastic)](https://www.npmjs.com/package/@tgenx/npmtest)
 
 A simple package for smoke testing npm feature
+
+## LICENSE
+
+MIT
