@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.3.0...v1.3.1) (2020-07-29)
+
+
+### Bug Fixes
+
+* yml and prepublish script ([73cef0a](https://github.com/ShangWeiTsai/npmtest/commit/73cef0aeb894d0d7937c078619d867cd9585628f))
+
 # [1.3.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.3...v1.3.0) (2020-07-29)
 
 
