@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.5.0...v1.5.1) (2020-07-29)
+
+
+### Bug Fixes
+
+* include es6 folder when deploy to npm ([6734bff](https://github.com/ShangWeiTsai/npmtest/commit/6734bffbd7777095e1f4a97b298b8415d5b3a06b))
+
 # [1.5.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.4.1...v1.5.0) (2020-07-29)
 
 
