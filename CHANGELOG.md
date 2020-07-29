@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.0...v1.2.1) (2020-07-29)
+
+
+### Bug Fixes
+
+* add origin keyword t ([cb2e0ee](https://github.com/ShangWeiTsai/npmtest/commit/cb2e0eeb8252956c253951c03b0c60f062cda399))
+
 # [1.2.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.1.0...v1.2.0) (2020-07-29)
 
 
