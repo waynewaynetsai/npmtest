@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.3...v1.3.0) (2020-07-29)
+
+
+### Bug Fixes
+
+* change build script at ci yml ([ad0f81f](https://github.com/ShangWeiTsai/npmtest/commit/ad0f81fa7dbe13689836cf820bed494ab9ce6fbf))
+
+
+### Features
+
+* provide passlint function ([48d4e9d](https://github.com/ShangWeiTsai/npmtest/commit/48d4e9d7010847773d034478d288a792930d4a80))
+
 ## [1.2.3](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.2...v1.2.3) (2020-07-29)
 
 
