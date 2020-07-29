@@ -9,7 +9,7 @@
   "types": "./lib/index.d.ts",
   "scripts": {
     "lint": "eslint . --ext .ts",
-    "build:commonjs": "tsc --declaration -p  tsconfig.json",
+    "build:commonjs": "tsc --declaration -p tsconfig.json",
     "release": "semantic-release-cli",
     "test": "echo \"testing!\"",
     "semantic-release": "semantic-release"
