@@ -6,6 +6,9 @@ console.log('add normal commit');
 
 console.log('test other type works after setting custom commit');
 
-function passlint() {
+function passlint(bool: boolean) {
+ if (bool) {
+  return;
+ }
  return 'lint';
 }
