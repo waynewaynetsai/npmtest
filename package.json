@@ -18,7 +18,8 @@
   },
   "keywords": [
     "test",
-    "npm"
+    "npm",
+    "t"
   ],
   "author": "Wayne Tsai <wayne040904007@gmail.com>",
   "license": "MIT",
