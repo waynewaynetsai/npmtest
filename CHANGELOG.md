@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.4.0...v1.4.1) (2020-07-29)
+
+
+### Bug Fixes
+
+* set release target to lib ([f82066d](https://github.com/ShangWeiTsai/npmtest/commit/f82066dee0fe7c1266fa2f69c8bd7264f38c1877))
+* use files option instead semantic release ([06386a4](https://github.com/ShangWeiTsai/npmtest/commit/06386a4c0a555740e71aa6c766494ce629d028e3))
+
 # [1.4.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.3.1...v1.4.0) (2020-07-29)
 
 
