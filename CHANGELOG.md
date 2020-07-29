@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.2...v1.2.3) (2020-07-29)
+
+
+### Bug Fixes
+
+* test normal type commit works ([79f9a53](https://github.com/ShangWeiTsai/npmtest/commit/79f9a53fba217b0fcd6f459476c9d889f6be579d))
+
 ## [1.2.2](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.1...v1.2.2) (2020-07-29)
 
 ## [1.2.1](https://github.com/ShangWeiTsai/npmtest/compare/v1.2.0...v1.2.1) (2020-07-29)
