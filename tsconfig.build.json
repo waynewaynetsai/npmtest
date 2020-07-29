@@ -3,7 +3,6 @@
  "compilerOptions": {
   "declaration": true,
  },
- "exclude": [
-  "**/*.d.ts"
- ]
+ // https://github.com/microsoft/TypeScript/issues/14538
+ "exclude": ["**/*.d.ts"]
 }
