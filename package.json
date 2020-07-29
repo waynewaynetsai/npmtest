@@ -6,7 +6,8 @@
   "version": "1.4.1",
   "description": "npm test",
   "files": [
-    "lib"
+    "lib",
+    "es6"
   ],
   "main": "lib/index.js",
   "module": "es6/index.js",
