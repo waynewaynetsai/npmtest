@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.1.0...v1.2.0) (2020-07-29)
+
+
+### Features
+
+* add key words ([584ed14](https://github.com/ShangWeiTsai/npmtest/commit/584ed14814c7096ed0eceb7139a0ea60de66ff55))
+
 # [1.1.0](https://github.com/ShangWeiTsai/npmtest/compare/v1.0.0...v1.1.0) (2020-07-29)
 
 
