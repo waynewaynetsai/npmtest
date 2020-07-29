@@ -5,6 +5,9 @@
   },
   "version": "1.4.0",
   "description": "npm test",
+  "files": [
+    "lib"
+  ],
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
